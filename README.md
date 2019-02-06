@@ -33,6 +33,8 @@ Issues are free to discuss anything (best SaaS supporting ICU, coordinate effort
 
 [react-intl](https://github.com/yahoo/react-intl)
 
+[i18next](https://github.com/i18next/i18next-icu)
+
 ### Java
 
 [ICU4J](http://site.icu-project.org/home/why-use-icu4j)
