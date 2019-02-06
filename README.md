@@ -9,12 +9,15 @@ Issues are free to discuss anything (best SaaS supporting ICU, coordinate effort
 # User-friendly documentation
 
 [FormatJS guide](https://formatjs.io/guides/message-syntax/)
+
 [format-message guide](http://format-message.github.io/icu-message-format-for-translators/)
+
 [messageformat guide](https://messageformat.github.io/messageformat/page-guide)
 
 # User-friendly editors
 
 [icu-message-format-for-translators](https://github.com/format-message/icu-message-format-for-translators)
+
 [messageformat.codemirror](http://vogelsgesang.github.io/messageformat.codemirror/)
 
 
@@ -23,8 +26,11 @@ Issues are free to discuss anything (best SaaS supporting ICU, coordinate effort
 ### JS
 
 [messageformat](https://github.com/messageformat/messageformat)
+
 [format-message](https://github.com/format-message/format-message)
+
 [FormatJS](https://formatjs.io/)
+
 [react-intl](https://github.com/yahoo/react-intl)
 
 ### Java
@@ -34,7 +40,9 @@ Issues are free to discuss anything (best SaaS supporting ICU, coordinate effort
 # ICU AST
 
 [message-format-parse](https://github.com/format-message/format-message/tree/master/packages/format-message-parse)
+
 [message-format-print](https://github.com/format-message/format-message/tree/master/packages/format-message-print)
+
 [intl-messageformat-parser](https://github.com/yahoo/intl-messageformat-parser)
 
 # Translation Management Systems
@@ -46,7 +54,9 @@ Issues are free to discuss anything (best SaaS supporting ICU, coordinate effort
 ### SaaS & not free
 
 [PhraseApp](https://help.phraseapp.com/translate-website-and-app-content/use-icu-message-format/icu-message-format)
+
 [CrowdIn](https://support.crowdin.com/icu-message-syntax/)
+
 [Locize](https://www.locize.io)
 
 # Translation services
