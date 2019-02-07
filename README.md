@@ -51,7 +51,7 @@ Issues are free to discuss anything (best SaaS supporting ICU, coordinate effort
 
 ### Open source & free
 
-[Mady](http://guigrpa.github.io/mady/)
+[Mady](https://github.com/guigrpa/mady)
 
 ### SaaS & not free
 
