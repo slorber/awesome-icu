@@ -22,6 +22,8 @@ Issues are free to discuss anything (best SaaS supporting ICU, coordinate effort
 
 [ToolsPortal Message Format editor](https://toolsportal.net/tools/icu-message-format)
 
+[Online ICU message editor](https://devpal.co/icu-message-editor/)
+
 # Translation libraries
 
 ### JS
