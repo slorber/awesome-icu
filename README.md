@@ -64,6 +64,8 @@ Issues are free to discuss anything (best SaaS supporting ICU, coordinate effort
 
 [Locize](https://www.locize.io)
 
+[Localizely](https://localizely.com)
+
 # Translation services
 
 TODO
