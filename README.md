@@ -8,7 +8,7 @@ Issues are free to discuss anything (best SaaS supporting ICU, coordinate effort
 
 # User-friendly documentation
 
-[FormatJS guide](https://formatjs.io/guides/message-syntax/)
+[FormatJS guide](https://formatjs.io/docs/core-concepts/icu-syntax)
 
 [format-message guide](http://format-message.github.io/icu-message-format-for-translators/)
 
